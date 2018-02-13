@@ -1,0 +1,13 @@
+/common/config/main.php
+.bowerrc
+.gitignore
+.idea
+*.log
+.svn
+*.svn/lock
+.svn/lock
+/service/runtime/*
+/frontend/runtime/*
+/frontend/web/assets/*
+/frontend/web/proxy_show/data/*
+/framework
